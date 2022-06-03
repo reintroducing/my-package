@@ -1,0 +1,12 @@
+{
+  "name": "@reintroducing/my-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Button.jsx",
+  "scripts": {
+    "pub": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
